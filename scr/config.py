@@ -1,8 +1,8 @@
 class DevelopmentConfig():
     DEBUG=True
     MYSQL_HOST='localhost'
-    MYSQL_USER='Danonino'
-    MYSQL_PASSWORD='Di203020137-6'
+    MYSQL_USER='pepe'
+    MYSQL_PASSWORD='667788'
     MYSQL_DB='api_utl'
 
 config={

@@ -5,7 +5,7 @@ app=Flask(__name__)
 @app.route('/')
 def index():
     titulos:"PWA"
-    listas()
+    listas(6)
     return render_template("index.html")
 
 @app.route('/hola')
